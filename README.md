@@ -8,7 +8,7 @@ There are two versions of this code, Pytorch and TensorFlow, I'll upload TensorF
 The more mainstream ones are RML2016.10a.
 
 # Citation
-`@article{zhang2022deep,
+```@article{zhang2022deep,
   title={Deep learning based automatic modulation recognition: Models, datasets, and challenges},
   author={Zhang, Fuxin and Luo, Chunbo and Xu, Jialang and Luo, Yang and Zheng, Fu-Chun},
   journal={Digital Signal Processing},
@@ -16,4 +16,4 @@ The more mainstream ones are RML2016.10a.
   pages={103650},
   year={2022},
   publisher={Elsevier}
-}`
+}```
